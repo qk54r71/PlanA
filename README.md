@@ -1,0 +1,1 @@
+remote repository of Android Studio
